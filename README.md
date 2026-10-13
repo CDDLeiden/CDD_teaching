@@ -1,2 +1,2 @@
-# CBR_teaching
-Repo for the CBR teaching lab, contains data, images and notebooks
+# CDD_teaching
+Repo for the Computational Drug Discovery course practical, contains data, images and notebooks
